@@ -3,13 +3,13 @@
 
 * [LinkedIn](https://www.linkedin.com/in/pravaslenka/) 
 * [Github](https://www.github.com/prvslnk)
+* [📬 Mail me](**pravaslenk20@gmail.com**)
 
-<img src="https://komarev.com/ghpvc/?username=codebotx">
+<img src="https://komarev.com/ghpvc/?username=prvslnk">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=prvslnk&layout=compact&hide=html&theme=graywhite)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prvslnk&layout=compact&theme=graywhite)
-- 📫 **pravaslenk20@gmail.com**
 
 
 # 💻 Tech Stack:
@@ -19,6 +19,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prvslnk&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prvslnk&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=prvslnk&icon=1&color=12)](https://visitcount.itsvg.in)
 
