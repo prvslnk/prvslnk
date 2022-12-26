@@ -4,7 +4,7 @@
 
 
 #  Hi 👋 I'm Pravas..
-#  <h4> An engineer with a passion for Web/App Development and Entrepreneurship. </h4>
+<h5> An engineer with a passion for Web/App Development and Entrepreneurship. </h5>
 
 * [LinkedIn](https://www.linkedin.com/in/pravaslenka/) 
 * [Github](https://www.github.com/prvslnk)
