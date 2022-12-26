@@ -7,7 +7,7 @@
 <h5> An engineer with a passion for Web/App Development and Entrepreneurship. </h5>
 
 
-* [Mail me](**pravaslenk20@gmail.com**)
+* [Mail me](mailto:pravaslenk20@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/pravaslenka/) 
 * [Github](https://www.github.com/prvslnk)
 
@@ -25,5 +25,4 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
