@@ -3,8 +3,7 @@
 </div>  
 
 
-<b>Hi 👋 I'm Pravas..<b>
-# An engineer with a passion for Web/App Development and Entrepreneurship.
+# Hi 👋 I'm Pravas.. <h5> An engineer with a passion for Web/App Development and Entrepreneurship. </h5>
 
 * [LinkedIn](https://www.linkedin.com/in/pravaslenka/) 
 * [Github](https://www.github.com/prvslnk)
