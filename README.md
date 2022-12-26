@@ -3,8 +3,10 @@
 </div>  
 
 
-## Hi 👋 I'm Pravas.. 
+<h1> Hi 👋 I'm Pravas.. </h1> 
 <h5> An engineer with a passion for Web/App Development and Entrepreneurship. </h5>
+---
+[![](https://visitcount.itsvg.in/api?id=prvslnk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 * [LinkedIn](https://www.linkedin.com/in/pravaslenka/) 
 * [Github](https://www.github.com/prvslnk)
@@ -23,8 +25,6 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prvslnk&icon=0&color=0)](https://visitcount.itsvg.in)
