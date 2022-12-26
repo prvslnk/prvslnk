@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pravas</h1>
-<h3 align="center">A passionate Web & App developer.</h3>
+#  Hi 👋 I'm Pravas
+<h3> An engineer with a passion for Web/App Development and Entrepreneurship. </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prvslnk" alt="prvslnk" /></a> </p>
+* [LinkedIn](https://www.linkedin.com/in/pravaslenka/) 
+* [Github](https://www.github.com/prvslnk)
 
-- 👀 **I’m interested in Web & App Development.**
+<img src="https://komarev.com/ghpvc/?username=codebotx">
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=codebotx&layout=compact&hide=html&theme=graywhite)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebotx&layout=compact&theme=graywhite)
 - 📫 **pravaslenk20@gmail.com**
 
 <p align="left">
