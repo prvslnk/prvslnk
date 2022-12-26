@@ -1,11 +1,11 @@
-#  Hi 👋 I'm Pravas
+#  Hi 👋 I'm Pravas..
 <h3> An engineer with a passion for Web/App Development and Entrepreneurship. </h3>
 
 * [LinkedIn](https://www.linkedin.com/in/pravaslenka/) 
 * [Github](https://www.github.com/prvslnk)
-* [📬 Mail me](**pravaslenk20@gmail.com**)
+* [Mail me](**pravaslenk20@gmail.com**)
 
-<img src="https://komarev.com/ghpvc/?username=prvslnk">
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=prvslnk&layout=compact&hide=html&theme=graywhite)
 
@@ -17,6 +17,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prvslnk&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prvslnk&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prvslnk&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
